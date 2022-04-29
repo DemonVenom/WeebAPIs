@@ -1,0 +1,62 @@
+p {
+
+    color: black;
+    font-size: 20px;
+
+
+}
+
+header {
+
+    background-color: #f75b20;
+    border-radius: 80px;
+
+    text-align: center;
+
+}
+
+
+
+
+a {
+
+    color: steelblue;
+    text-decoration: none;
+
+}
+
+
+a:link {
+
+    color: steelblue;
+    text-decoration: none;
+
+}
+
+a:hover {
+
+    text-decoration: underline;
+
+}
+
+
+
+
+#anime-section {
+
+    background-color: white;
+
+}
+
+
+
+ul li {
+
+    list-style: none;
+
+}
+
+
+
+
+
